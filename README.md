@@ -47,7 +47,7 @@ I'm actively seeking:
 
 * **Mentorship** from quantitative finance professionals
 * **Internship** **opportunities** in quant dev/research roles
-* **Study partners** preparing for MScRMFE programs
+* **Study partners** preparing for MScFinTech programs
 * **Feedback** on my code, projects, and learning approach
 
 #### Contact:
