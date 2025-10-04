@@ -52,6 +52,6 @@ I'm actively seeking:
 
 #### Contact:
 
-📧 Email: thecoachellaaaas.career@gmail.com
-💼 LinkedIn: piyathida-suwannakat
-🐙 GitHub: You're already here!
+* 📧 Email: thecoachellaaaas.career@gmail.com
+* 💼 LinkedIn: piyathida-suwannakat
+* 🐙 GitHub: You're already here!
