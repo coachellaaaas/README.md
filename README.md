@@ -12,6 +12,8 @@ Built a biologically-inspired recognition system using Spiking Neural Networks w
 * Tech: Python, GeNN (pyGenn, mlGenn), NumPy, Pandas, Matplotlib, Tensorflow, CUDA
 
 **Key Learning:** Optimizing neural architectures isn't just about accuracy - it's about data efficiency and computational trade-offs.
+
+
 ---
 ### 📈 Quantitative Finance Journey (In Progress)
 This is where I'm building my foundations for a quant career:
