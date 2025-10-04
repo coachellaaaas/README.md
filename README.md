@@ -1,6 +1,6 @@
 # Hello there, I'm Piyathida (Coach) 👋
 Computer Science and Artificial Intelligence Graduate >3<
----
+
 ## 🔬 Featured Projects
 ### 🧠 Transfer Learning with Spiking Neural Networks
 Aug 2024 - Apr 2025 | Bachelor's Thesis
@@ -12,7 +12,7 @@ Built a biologically-inspired recognition system using Spiking Neural Networks w
 * Tech: Python, GeNN (pyGenn, mlGenn), NumPy, Pandas, Matplotlib, Tensorflow, CUDA
 
 **Key Learning:** Optimizing neural architectures isn't just about accuracy - it's about data efficiency and computational trade-offs.
-
+---
 ### 📈 Quantitative Finance Journey (In Progress)
 This is where I'm building my foundations for a quant career:
 #### 🎲 quant-foundations (Main Learning Repo)
@@ -31,7 +31,7 @@ Systematic implementation of quantitative finance concepts from first principles
 * Code is heavily commented - explaining why, not just what
 
 
----
+
 ## 🛠️ Technical Skills
 **Languages:** Python, C++, SQL, R, MATLAB, Java
 **ML/DS:** PyTorch, TensorFlow, NumPy, Pandas, Scikit-learn, SciPy
@@ -39,7 +39,7 @@ Systematic implementation of quantitative finance concepts from first principles
 **Tools:** Git, Linux, CUDA, Jupyter, VS Code
 **Specialisation:** Neural Networks (CNNs, SNNs), GPU Computing (GeNN/CUDA)
 
----
+
 ## 📫 Get in Touch
 I'm actively seeking:
 
