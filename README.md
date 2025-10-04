@@ -35,11 +35,11 @@ Systematic implementation of quantitative finance concepts from first principles
 
 
 ## 🛠️ Technical Skills
-**Languages:** Python, C++, SQL, R, MATLAB, Java
-**ML/DS:** PyTorch, TensorFlow, NumPy, Pandas, Scikit-learn, SciPy
-**Finance:** QuantLib (learning), Options Pricing, Risk Analytics
-**Tools:** Git, Linux, CUDA, Jupyter, VS Code
-**Specialisation:** Neural Networks (CNNs, SNNs), GPU Computing (GeNN/CUDA)
+* **Languages:** Python, C++, SQL, R, MATLAB, Java
+* **ML/DS:** PyTorch, TensorFlow, NumPy, Pandas, Scikit-learn, SciPy
+* **Finance:** QuantLib (learning), Options Pricing, Risk Analytics
+* **Tools:** Git, Linux, CUDA, Jupyter, VS Code
+* **Specialisation:** Neural Networks (CNNs, SNNs), GPU Computing (GeNN/CUDA)
 
 
 ## 📫 Get in Touch
