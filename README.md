@@ -1,4 +1,4 @@
-# Hello there, I'm Coach (church given name: Katheryne)!  👋
+# Hello there, I'm Coach! 👋
 Computer Science & AI Graduate on an exciting journey into Finance!
 
 ## 🎯 A Bit About Me
