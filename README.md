@@ -17,5 +17,5 @@ It's been quite the adventure! I'm a CS grad who loves the challenge of understa
 * **Specialisation:** Neural Networks (CNNs, SNNs), GPU Computing (GeNN/CUDA)
 
 #### Contact:
-* 📧 Email: 
+* 📧 Email: officialofcoach@gmail.com
 * 🐙 GitHub: You're already here!
